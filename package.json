@@ -15,6 +15,7 @@
   },
   "dependencies": {
     "@openzeppelin/contracts": "^4.9.3",
+    "@swisstronik/swisstronik.js": "^1.0.0",
     "dotenv": "^16.3.1"
   },
   "directories": {
